@@ -5,7 +5,9 @@
 template for NLP module coursework
 
 ### Student Details
+
 Name: Duong Le
+
 Student Number: 14109966
 
 ### Academic Declaration
@@ -29,4 +31,4 @@ I have added a directory called `data` for convenient file/directory access. Ple
     │   │   │   └── *.txt -----> e.g Dorian_Gray-Wilde-1890.txt
     │   │   └── hansard40000.csv/ -----> Part Two data
     │   └── README.md -----> Directory set up instructions
-    ```
+```
