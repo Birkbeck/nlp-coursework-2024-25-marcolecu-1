@@ -18,8 +18,6 @@ from math import log
 nlp = spacy.load("en_core_web_sm")
 nlp.max_length = 3e6
 
-novels_directory = "/Users/marcolecu/Downloads/p1-texts/novels"
-
 nltk.download("punkt_tab")
 nltk.download("cmudict")
 
@@ -171,7 +169,7 @@ def nltk_ttr(text: str) -> float:
     return ttr
 
 
-def get_ttrs(df: pd.Dataframe):
+def get_ttrs(df: pd.DataFrame):
     """helper function to add ttr to a dataframe"""
     results = {}
     for i, row in df.iterrows():
@@ -250,10 +248,10 @@ def subjects_by_verb_pmi(doc, n=10):
 
 
 if __name__ == "__main__":
-    path = Path.cwd() / "p1-texts" / "novels"
+    path = Path(__file__).parents[0] / "data" / "novels"
     print(path)
     df = read_novels(
-        path=novels_directory
+        path=path
     )  # this line will fail until you have completed the read_novels function above.
     print(df.head())
 
