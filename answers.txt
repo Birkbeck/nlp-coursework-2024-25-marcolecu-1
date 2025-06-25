@@ -1,1 +1,7 @@
-Answers to the text questions go here.
+Answers:
+
+Part 1d)
+
+Flesch-Kincaid (FK) Grade Level serves as an effective tool for determining fundamental readability that was widely used for 19th and 20th century novels, and it often underestimates the real complexity behind literary writings and disregards metaphorical language, narrative structure and readers interpretation. For instance, Dorian Grey with a low score of 4.95 indicates the novel is appropriate for elementary school readers. On the other hand, the novel dives into complicated topics such as vanity, corruption and the conflict of human nature, which demand for a broader knowledge of thinking and mature understanding of the cultural background. Therefore, the FK score is not reliable as it only assesses superficial characteristics, such as number of syllables used but not the depth of thought or difficulty of interpretation.
+
+Conversely, some novels are classified as very challenging by FK because of their lengthy sentences and advanced vocabulary, despite the topics not being excessively complicated. Considering their complex language constructions, Erewhon and Golden Bowl scores higher because the concepts expressed in these novels are often understandable with some background knowledge. Consequently, FK scores do not accurately reflect text difficulty when the difficulty comes from themes and structures, rather than words and sentences.
